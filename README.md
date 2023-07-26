@@ -17,3 +17,6 @@ Fremont, CA.
 Copyright (C) 2015-2021, Joe James
 
 ## Happy coding guys!😀
+
+
+print("go  study pthone")
